@@ -8,4 +8,4 @@ konflikt der nächste
 git rebase 1
 git rebas2
 git rebase 3
-
+jamos änderung
